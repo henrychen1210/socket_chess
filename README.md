@@ -1,4 +1,4 @@
-# 2019_sock_chess
+# Socket Chess Game in C
 
 ## Introduction
 
@@ -6,3 +6,4 @@ This is an chess game in C. It is built with client and server architecture. Mor
 
 
 Thanks!
+2019 
